@@ -5,6 +5,9 @@ spring:
       local: local_server, common, secret
       blue: blue_server, common, secret
       green: green_server, common, secret
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
 
 ---
 

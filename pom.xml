@@ -121,7 +121,6 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<scope>optional</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.session</groupId>
